@@ -1,0 +1,9 @@
+mod utils;
+
+pub fn main() {
+    parse_input();
+}
+
+fn parse_input() {
+    let input: Vec<String> = utils::read_puzzle_input();
+}
