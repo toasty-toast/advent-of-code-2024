@@ -6,4 +6,5 @@ default-run = "advent_of_code_2024"
 publish = false
 
 [dependencies]
+itertools = "0.13.0"
 regex = "1.11.1"
